@@ -16,16 +16,19 @@ class Hat:
         if num_balls_drawn == 0:
             self.contents = []
         elif num_balls_drawn < len(self.contents):
-            reduce_contents = random.choices(self.contents, k=num_balls_drawn)
+            reduce_contents = random.sample(self.contents, k=num_balls_drawn)
             for ball in reduce_contents:
                 self.contents.remove(ball)
-        return reduce_contents
+            return reduce_contents
+        else:
+            return self.contents
 
 
 def experiment(hat, expected_balls, num_balls_drawn, num_experiments):
     probability = 0
     item_expected_balls = expected_balls.items()
-    random.seed(95)
+    if num_balls_drawn > len(hat.contents):
+        num_balls_drawn = len(hat.contents)
 
     for i in range(0, num_experiments):
         balls_drawn = random.sample(hat.contents, num_balls_drawn)
