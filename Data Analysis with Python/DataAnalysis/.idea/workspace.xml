@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86d92a0-2387-4f37-93f4-17e01f117bde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DataAnalysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataAnalysis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" />
+    <list default="true" id="a86d92a0-2387-4f37-93f4-17e01f117bde" name="Default Changelist" comment="delete ./idea">
+      <change beforePath="$PROJECT_DIR$/.idea/DataAnalysis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Data Analysis Example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Data Analysis Example.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +53,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,10 +72,67 @@
       <option name="presentableId" value="Default" />
       <updated>1628599101621</updated>
       <workItem from="1628599102971" duration="113000" />
+      <workItem from="1628599251746" duration="182000" />
+      <workItem from="1628599461897" duration="622000" />
     </task>
+    <task id="LOCAL-00001" summary="delete ./idea">
+      <created>1628599288921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628599288921</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete ./idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete ./idea" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2184" y="129" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628604227285">
+      <screen x="1440" y="-250" width="2560" height="1440" />
+    </state>
+    <state x="2184" y="129" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.-250.2560.1440@1440.-250.2560.1440" timestamp="1628604227285" />
+    <state x="2580" y="204" width="851" height="531" key="EnvironmentVariablesDialog" timestamp="1628604221186">
+      <screen x="1440" y="-250" width="2560" height="1440" />
+    </state>
+    <state x="2580" y="204" width="851" height="531" key="EnvironmentVariablesDialog/0.0.1440.900/1440.-250.2560.1440@1440.-250.2560.1440" timestamp="1628604221186" />
+    <state x="2320" y="207" key="Vcs.Push.Dialog.v2" timestamp="1628599384247">
+      <screen x="1440" y="-250" width="2560" height="1440" />
+    </state>
+    <state x="2320" y="207" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-250.2560.1440@1440.-250.2560.1440" timestamp="1628599384247" />
   </component>
 </project>
