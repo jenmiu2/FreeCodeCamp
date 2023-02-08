@@ -1,9 +1,9 @@
-function countdown(n){
+function countDown(n){
     if (n < 1) {
         return [];
     }
     else {
-        const countArr = countdown(n - 1);
+        const countArr = countDown(n - 1);
         countArr.unshift(n);
         return countArr;
     }
